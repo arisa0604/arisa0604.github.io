@@ -83,7 +83,7 @@ img {
     background-position: center top;
 }
 #home {
-    background-image: url(/Users/taniarisa/Desktop/WCBCafe/images/main-bg.jpg);
+    background-image: url(../image/main-bg.jpg);
     min-height: 100vh;
 
 }
@@ -91,7 +91,7 @@ img {
     text-transform: none;
 }
 #news {
-    background-image: url(/Users/taniarisa/Desktop/WCBCafe/images/news-bg.jpg);
+    background-image: url(/Users/taniarisa/Desktop/WCBCafe/images/news-bg.jpg);/* 85行目同様パス変更シてください　*/
     height: 270px;
     margin-bottom: 40px;
 
@@ -298,7 +298,7 @@ aside {
     order: 1;
 }
 #menu {
-    background-image: url(/Users/taniarisa/Desktop/WCBCafe/images/menu-bg.jpg);
+    background-image: url(/Users/taniarisa/Desktop/WCBCafe/images/menu-bg.jpg);/* 85行目同様パス変更シてください　*/
     min-height: 100vh;
 }
 .menu-content {
@@ -331,7 +331,7 @@ aside {
     object-fit: cover;
 }
 #contact {
-    background-image:  url(/Users/taniarisa/Desktop/contact-bg.jpg);
+    background-image:  url(/Users/taniarisa/Desktop/contact-bg.jpg);/* 85行目同様パス変更シてください　*/
     min-height: 100vh;
 }
 form div {
