@@ -91,7 +91,7 @@ img {
     text-transform: none;
 }
 #news {
-    background-image: url(../images/news-bg.jpg);/* 85行目同様パス変更シてください　*/
+    background-image: url(../image/news-bg.jpg);/* 85行目同様パス変更シてください　*/
     height: 270px;
     margin-bottom: 40px;
 
@@ -298,7 +298,7 @@ aside {
     order: 1;
 }
 #menu {
-    background-image: url(../images/menu-bg.jpg);/* 85行目同様パス変更シてください　*/
+    background-image: url(../image/menu-bg.jpg);/* 85行目同様パス変更シてください　*/
     min-height: 100vh;
 }
 .menu-content {
