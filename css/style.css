@@ -91,7 +91,7 @@ img {
     text-transform: none;
 }
 #news {
-    background-image: url(../images/news-bg.jpg);/* 85行目同様パス変更シてください　*/
+    background-image: url(../images/news-bg.jpg);
     height: 270px;
     margin-bottom: 40px;
 
@@ -298,7 +298,7 @@ aside {
     order: 1;
 }
 #menu {
-    background-image: url(../images/menu-bg.jpg);/* 85行目同様パス変更シてください　*/
+    background-image: url(../images/menu-bg.jpg);
     min-height: 100vh;
 }
 .menu-content {
@@ -331,7 +331,7 @@ aside {
     object-fit: cover;
 }
 #contact {
-    background-image:  url(../images/contact-bg.jpg);/* 85行目同様パス変更シてください　*/
+    background-image:  url(../images/contact-bg.jpg);
     min-height: 100vh;
 }
 form div {
